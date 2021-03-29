@@ -2,7 +2,7 @@
 # Project Portfolio
 ## Click title to be taken to source code.
 
-# Project 1 - Exploratory data analysis of crowdfunding data from Kickstarter
+# [Project 1 - Exploratory data analysis of crowdfunding data from Kickstarter](https://github.com/davidika/davidika.github.io/blob/main/Project-1---21520699-v2.html)
 ## Introduction 
 
 This Project applies various methods to a dataset to clean, transform, visualise and report on observations.
