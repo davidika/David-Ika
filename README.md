@@ -13,7 +13,7 @@ The dataset was released by [Kickstarter](https://www.kickstarter.com/), a crowd
 
 The data was initially released from the perspective of the company, in that it had an interest of predicting the success of a project. There is also, however, information that potential creators may find useful.
 
-# Project 2 - Predicting successful outcomes of Kickstarter projects
+# Project 2 - Predicting successful outcomes of Kickstarter campaigns
 ## Introduction
 
 Project 2 continues from Project 1 (above) and observes the same dataset.
