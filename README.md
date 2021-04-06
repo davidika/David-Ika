@@ -1,6 +1,6 @@
 # David Ika
-# Project Portfolio
-## Click title to be taken to source code.
+### A page to display some of my projects. Click into each project for further information and source code.
+
 
 # [Project 1 - Exploratory data analysis of crowdfunding data from Kickstarter](https://github.com/davidika/davidika.github.io/blob/main/Project-1---21520699-v2.html)
 ## Introduction 
