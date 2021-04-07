@@ -4,12 +4,12 @@
 
 
 
-# Project 1 - Exploratory data analysis of crowdfunding data from Kickstarter
+# Exploratory data analysis of crowdfunding data from Kickstarter
 * GitHub repository [here](https://github.com/davidika/Analysis-of-Kickstarter-campaign-data).
 * RPubs publication [here](https://rpubs.com/david_ika/EDA-kickstarter).
 * Dataset [here](https://www.kaggle.com/codename007/funding-successful-projects).
 
-## Description 
+### Description 
 
 This Project applies various methods to a dataset to clean, transform, visualise and report on observations.
 
@@ -22,12 +22,10 @@ The data was initially released from the perspective of the company, in that it 
 
 
 
-# Project 2 - Predicting successful outcomes of Kickstarter campaigns
-* GitHub repository [here](https://github.com/davidika/Analysis-of-Kickstarter-campaign-data).
+# Predicting Kickstarter campaign success
+* GitHub repository [here](https://github.com/davidika/Predictive-analytics-of-Kickstarter-campaign-data).
 * RPubs publication [here](https://rpubs.com/david_ika/predicting-Kickstarter-campaign-success).
 
-## Description
+### Description
 
-Project 2 continues from Project 1 (above) and observes the same dataset.
-
-Whilst Project 1 explored and visualised the data, Project 2 aims to address the initial business objective set by Kickstarter: to help predict whether a project will be successfully funded. Classification and clustering methods will be used to achieve this.
+This project aims to address the initial business objective set by Kickstarter: to help predict whether a project will be successfully funded. Various classification and clustering methods will be used to achieve this.
