@@ -1,4 +1,4 @@
-# David Ika
+
 ## A page to display some of my projects. Clickable links to repository & publications under each heading..
 
 
