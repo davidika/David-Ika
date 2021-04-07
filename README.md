@@ -1,5 +1,6 @@
 
-## A page to display some of my projects. Clickable links to repository & publications under each heading..
+## A page to display some of my projects.
+### Clickable links to repositories, publications and datasets are under each heading.
 
 
 
