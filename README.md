@@ -1,5 +1,7 @@
 # David Ika
-### A page to display some of my projects. Clickable links to repository & publications under each heading..
+## A page to display some of my projects. Clickable links to repository & publications under each heading..
+
+
 
 
 # Project 1 - Exploratory data analysis of crowdfunding data from Kickstarter
@@ -7,7 +9,7 @@
 * RPubs publication [here](https://rpubs.com/david_ika/EDA-kickstarter).
 * Dataset [here](https://www.kaggle.com/codename007/funding-successful-projects).
 
-## Introduction 
+## Description 
 
 This Project applies various methods to a dataset to clean, transform, visualise and report on observations.
 
@@ -17,8 +19,14 @@ The dataset was released by [Kickstarter](https://www.kickstarter.com/), a crowd
 
 The data was initially released from the perspective of the company, in that it had an interest of predicting the success of a project. There is also, however, information that potential creators may find useful.
 
+
+
+
 # Project 2 - Predicting successful outcomes of Kickstarter campaigns
-## Introduction
+* GitHub repository [here](https://github.com/davidika/Analysis-of-Kickstarter-campaign-data).
+* RPubs publication [here](https://rpubs.com/david_ika/predicting-Kickstarter-campaign-success).
+
+## Description
 
 Project 2 continues from Project 1 (above) and observes the same dataset.
 
