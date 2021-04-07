@@ -1,8 +1,12 @@
 # David Ika
-### A page to display some of my projects. Click into each project for further information and source code.
+### A page to display some of my projects. Clickable links to repository & publications under each heading..
 
 
-# [Project 1 - Exploratory data analysis of crowdfunding data from Kickstarter](https://github.com/davidika/davidika.github.io/blob/main/Project-1---21520699-v2.html)
+# Project 1 - Exploratory data analysis of crowdfunding data from Kickstarter
+* GitHub repository [here](https://github.com/davidika/Analysis-of-Kickstarter-campaign-data).
+* RPubs publication [here](https://rpubs.com/david_ika/EDA-kickstarter).
+* Dataset [here](https://www.kaggle.com/codename007/funding-successful-projects).
+
 ## Introduction 
 
 This Project applies various methods to a dataset to clean, transform, visualise and report on observations.
